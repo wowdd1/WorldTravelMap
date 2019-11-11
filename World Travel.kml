@@ -253,6 +253,40 @@
         <styleUrl>#icon-1532-01579B-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1533-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1533-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1533-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1533-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1533-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1538-006064-normal">
       <IconStyle>
         <color>ff646000</color>
@@ -503,6 +537,40 @@
         <styleUrl>#icon-1593-01579B-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1594-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1594-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1594-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1594-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1594-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1633-01579B-normal">
       <IconStyle>
         <color>ff9b5701</color>
@@ -535,6 +603,114 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1633-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1637-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1637-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1661-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1661-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1661-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1661-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1661-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1661-673AB7-nodesc-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1661-673AB7-nodesc-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1661-673AB7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1661-673AB7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1661-673AB7-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1681-01579B-normal">
@@ -645,6 +821,74 @@
         <styleUrl>#icon-1718-01579B-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1718-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1718-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1718-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1718-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1718-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1718-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1718-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1718-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1718-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1718-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1720-1A237E-normal">
       <IconStyle>
         <color>ff7e231a</color>
@@ -711,6 +955,40 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1722-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1725-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1725-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1725-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1725-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1725-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="icon-1727-01579B-normal">
@@ -929,6 +1207,40 @@
         <styleUrl>#icon-1870-01579B-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1881-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1881-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1881-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1881-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1881-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1899-DB4436-nodesc-normal">
       <IconStyle>
         <color>ff3644db</color>
@@ -1013,6 +1325,84 @@
         <styleUrl>#icon-1899-E65100-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-nodesc-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-nodesc-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-62-normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -1079,11 +1469,11 @@
       <name>Italy Walking Tours</name>
       <Placemark>
         <name>Rome - Rome Walking Tour</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=vK928kqYUPI"><img src="https://img.youtube.com/vi/vK928kqYUPI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/vK928kqYUPI">https://www.youtube.com/embed/vK928kqYUPI</a><br><br>https://www.youtube.com/embed/vK928kqYUPI<br>Model of imperial Rome http://www.museociviltaromana.it/en/collezioni/percorsi_per_sale/plastico_di_roma_imperiale<br><br><a href="https://www.youtube.com/watch?v=w-MjG9NP4h8"><img src="https://img.youtube.com/vi/w-MjG9NP4h8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/w-MjG9NP4h8">https://www.youtube.com/embed/w-MjG9NP4h8</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=vK928kqYUPI"><img src="https://img.youtube.com/vi/vK928kqYUPI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/vK928kqYUPI">https://www.youtube.com/embed/vK928kqYUPI</a><br><br>https://www.youtube.com/embed/vK928kqYUPI<br>Model of imperial Rome http://www.museociviltaromana.it/en/collezioni/percorsi_per_sale/plastico_di_roma_imperiale<br><br><a href="https://www.youtube.com/watch?v=w-MjG9NP4h8"><img src="https://img.youtube.com/vi/w-MjG9NP4h8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/w-MjG9NP4h8">https://www.youtube.com/embed/w-MjG9NP4h8</a><br><br><a href="https://www.youtube.com/watch?v=NZjXod3yblE"><img src="https://img.youtube.com/vi/NZjXod3yblE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/NZjXod3yblE">https://www.youtube.com/embed/NZjXod3yblE</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/vK928kqYUPI https://www.youtube.com/embed/w-MjG9NP4h8</value>
+            <value>https://www.youtube.com/embed/vK928kqYUPI https://www.youtube.com/embed/w-MjG9NP4h8 https://www.youtube.com/embed/NZjXod3yblE</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -1634,11 +2024,11 @@
       </Placemark>
       <Placemark>
         <name>Cinque Terre</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=m6JTDPQwUCM"><img src="https://img.youtube.com/vi/m6JTDPQwUCM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/m6JTDPQwUCM">https://www.youtube.com/embed/m6JTDPQwUCM</a><br><br><br><br><a href="https://www.youtube.com/watch?v=7AkemYCvjoc"><img src="https://img.youtube.com/vi/7AkemYCvjoc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/7AkemYCvjoc">https://www.youtube.com/embed/7AkemYCvjoc</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=m6JTDPQwUCM"><img src="https://img.youtube.com/vi/m6JTDPQwUCM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/m6JTDPQwUCM">https://www.youtube.com/embed/m6JTDPQwUCM</a><br><br><br><br><a href="https://www.youtube.com/watch?v=7AkemYCvjoc"><img src="https://img.youtube.com/vi/7AkemYCvjoc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/7AkemYCvjoc">https://www.youtube.com/embed/7AkemYCvjoc</a><br><br><a href="https://www.youtube.com/watch?v=kctC21y_WqY"><img src="https://img.youtube.com/vi/kctC21y_WqY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kctC21y_WqY">https://www.youtube.com/embed/kctC21y_WqY</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/m6JTDPQwUCM https://www.youtube.com/embed/7AkemYCvjoc</value>
+            <value>https://www.youtube.com/embed/m6JTDPQwUCM https://www.youtube.com/embed/7AkemYCvjoc https://www.youtube.com/embed/kctC21y_WqY</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2181,6 +2571,36 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Salt Lake City</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=8M0KlvrOApw"><img src="https://img.youtube.com/vi/8M0KlvrOApw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/8M0KlvrOApw">https://www.youtube.com/embed/8M0KlvrOApw</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/8M0KlvrOApw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.8910474,40.7607793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verona</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=R-T0lDmeIA4"><img src="https://img.youtube.com/vi/R-T0lDmeIA4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/R-T0lDmeIA4">https://www.youtube.com/embed/R-T0lDmeIA4</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/R-T0lDmeIA4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.9916215000001,45.4383842,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Western Europe Walking Tours</name>
@@ -2496,6 +2916,60 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Voss to Flåm</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=-Iw1XcbYQ_4"><img src="https://img.youtube.com/vi/-Iw1XcbYQ_4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-Iw1XcbYQ_4">https://www.youtube.com/embed/-Iw1XcbYQ_4</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/-Iw1XcbYQ_4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.4231333,60.6294798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flåm Railway to Voss</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=4eK0kF2xGSk"><img src="https://img.youtube.com/vi/4eK0kF2xGSk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/4eK0kF2xGSk">https://www.youtube.com/embed/4eK0kF2xGSk</a><br><br><br><br><a href="https://www.youtube.com/watch?v=rECMwqMj1hg"><img src="https://img.youtube.com/vi/rECMwqMj1hg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rECMwqMj1hg">https://www.youtube.com/embed/rECMwqMj1hg</a><br><br><a href="https://www.youtube.com/watch?v=dlSuu9wD4_M"><img src="https://img.youtube.com/vi/dlSuu9wD4_M/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/dlSuu9wD4_M">https://www.youtube.com/embed/dlSuu9wD4_M</a><br><br><a href="https://www.youtube.com/watch?v=ygjw-n1bOnE"><img src="https://img.youtube.com/vi/ygjw-n1bOnE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ygjw-n1bOnE">https://www.youtube.com/embed/ygjw-n1bOnE</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/4eK0kF2xGSk https://www.youtube.com/embed/rECMwqMj1hg https://www.youtube.com/embed/dlSuu9wD4_M https://www.youtube.com/embed/ygjw-n1bOnE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.1098951,60.8600876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3532385,48.8584217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nuremberg</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=P17hbhKcz7o"><img src="https://img.youtube.com/vi/P17hbhKcz7o/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/P17hbhKcz7o">https://www.youtube.com/embed/P17hbhKcz7o</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/P17hbhKcz7o</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.0766654,49.4521018,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>USA Walking Tours</name>
@@ -2531,11 +3005,11 @@
       </Placemark>
       <Placemark>
         <name>Seaport</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=5UXqK3OogMY"><img src="https://img.youtube.com/vi/5UXqK3OogMY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5UXqK3OogMY">https://www.youtube.com/embed/5UXqK3OogMY</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=5UXqK3OogMY"><img src="https://img.youtube.com/vi/5UXqK3OogMY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5UXqK3OogMY">https://www.youtube.com/embed/5UXqK3OogMY</a><br><br><br><br><a href="https://www.youtube.com/watch?v=aVaQkKBEvzE"><img src="https://img.youtube.com/vi/aVaQkKBEvzE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/aVaQkKBEvzE">https://www.youtube.com/embed/aVaQkKBEvzE</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/5UXqK3OogMY</value>
+            <value>https://www.youtube.com/embed/5UXqK3OogMY https://www.youtube.com/embed/aVaQkKBEvzE</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -2861,11 +3335,11 @@
       </Placemark>
       <Placemark>
         <name>Las Vegas</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=DL703lh_my8"><img src="https://img.youtube.com/vi/DL703lh_my8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/DL703lh_my8">https://www.youtube.com/embed/DL703lh_my8</a><br><br><br><br><a href="https://www.youtube.com/watch?v=uppuxvbW-w8"><img src="https://img.youtube.com/vi/uppuxvbW-w8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/uppuxvbW-w8">https://www.youtube.com/embed/uppuxvbW-w8</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=DL703lh_my8"><img src="https://img.youtube.com/vi/DL703lh_my8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/DL703lh_my8">https://www.youtube.com/embed/DL703lh_my8</a><br><br><br><br><a href="https://www.youtube.com/watch?v=uppuxvbW-w8"><img src="https://img.youtube.com/vi/uppuxvbW-w8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/uppuxvbW-w8">https://www.youtube.com/embed/uppuxvbW-w8</a><br><br><a href="https://www.youtube.com/watch?v=jSjtBY0MOI8"><img src="https://img.youtube.com/vi/jSjtBY0MOI8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/jSjtBY0MOI8">https://www.youtube.com/embed/jSjtBY0MOI8</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/DL703lh_my8 https://www.youtube.com/embed/uppuxvbW-w8</value>
+            <value>https://www.youtube.com/embed/DL703lh_my8 https://www.youtube.com/embed/uppuxvbW-w8 https://www.youtube.com/embed/jSjtBY0MOI8</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -3026,11 +3500,11 @@
       </Placemark>
       <Placemark>
         <name>Chicago</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=kOMWAnxKq58"><img src="https://img.youtube.com/vi/kOMWAnxKq58/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kOMWAnxKq58">https://www.youtube.com/embed/kOMWAnxKq58</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=kOMWAnxKq58"><img src="https://img.youtube.com/vi/kOMWAnxKq58/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kOMWAnxKq58">https://www.youtube.com/embed/kOMWAnxKq58</a><br><br><br><br><a href="https://www.youtube.com/watch?v=x42Wxn1btTY"><img src="https://img.youtube.com/vi/x42Wxn1btTY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/x42Wxn1btTY">https://www.youtube.com/embed/x42Wxn1btTY</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/kOMWAnxKq58</value>
+            <value>https://www.youtube.com/embed/kOMWAnxKq58 https://www.youtube.com/embed/x42Wxn1btTY</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -3086,11 +3560,11 @@
       </Placemark>
       <Placemark>
         <name>Detroit</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=at_PYHSMu2E"><img src="https://img.youtube.com/vi/at_PYHSMu2E/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/at_PYHSMu2E">https://www.youtube.com/embed/at_PYHSMu2E</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=at_PYHSMu2E"><img src="https://img.youtube.com/vi/at_PYHSMu2E/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/at_PYHSMu2E">https://www.youtube.com/embed/at_PYHSMu2E</a><br><br><br><br><a href="https://www.youtube.com/watch?v=44Z4T_wRVmM"><img src="https://img.youtube.com/vi/44Z4T_wRVmM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/44Z4T_wRVmM">https://www.youtube.com/embed/44Z4T_wRVmM</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/at_PYHSMu2E</value>
+            <value>https://www.youtube.com/embed/at_PYHSMu2E https://www.youtube.com/embed/44Z4T_wRVmM</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -3176,11 +3650,11 @@
       </Placemark>
       <Placemark>
         <name>Seattle</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=rjVD1-1mbuE"><img src="https://img.youtube.com/vi/rjVD1-1mbuE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rjVD1-1mbuE">https://www.youtube.com/embed/rjVD1-1mbuE</a><br><br><br><br><a href="https://www.youtube.com/watch?v=QIjZn_fiS3M"><img src="https://img.youtube.com/vi/QIjZn_fiS3M/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QIjZn_fiS3M">https://www.youtube.com/embed/QIjZn_fiS3M</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=rjVD1-1mbuE"><img src="https://img.youtube.com/vi/rjVD1-1mbuE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rjVD1-1mbuE">https://www.youtube.com/embed/rjVD1-1mbuE</a><br><br><br><br><a href="https://www.youtube.com/watch?v=QIjZn_fiS3M"><img src="https://img.youtube.com/vi/QIjZn_fiS3M/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QIjZn_fiS3M">https://www.youtube.com/embed/QIjZn_fiS3M</a><br><br><a href="https://www.youtube.com/watch?v=DSXv-5WhXEY"><img src="https://img.youtube.com/vi/DSXv-5WhXEY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/DSXv-5WhXEY">https://www.youtube.com/embed/DSXv-5WhXEY</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/rjVD1-1mbuE https://www.youtube.com/embed/QIjZn_fiS3M</value>
+            <value>https://www.youtube.com/embed/rjVD1-1mbuE https://www.youtube.com/embed/QIjZn_fiS3M https://www.youtube.com/embed/DSXv-5WhXEY</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -4556,11 +5030,11 @@
       </Placemark>
       <Placemark>
         <name>Grand Canyon National Park</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=VPJW9X7Agsw"><img src="https://img.youtube.com/vi/VPJW9X7Agsw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VPJW9X7Agsw">https://www.youtube.com/embed/VPJW9X7Agsw</a><br><br><br><br><a href="https://www.youtube.com/watch?v=QxmXhjsb_M0"><img src="https://img.youtube.com/vi/QxmXhjsb_M0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QxmXhjsb_M0">https://www.youtube.com/embed/QxmXhjsb_M0</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=VPJW9X7Agsw"><img src="https://img.youtube.com/vi/VPJW9X7Agsw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VPJW9X7Agsw">https://www.youtube.com/embed/VPJW9X7Agsw</a><br><br><br><br><a href="https://www.youtube.com/watch?v=QxmXhjsb_M0"><img src="https://img.youtube.com/vi/QxmXhjsb_M0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QxmXhjsb_M0">https://www.youtube.com/embed/QxmXhjsb_M0</a><br><br><a href="https://www.youtube.com/watch?v=qLaLmEW0hWg"><img src="https://img.youtube.com/vi/qLaLmEW0hWg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/qLaLmEW0hWg">https://www.youtube.com/embed/qLaLmEW0hWg</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/VPJW9X7Agsw https://www.youtube.com/embed/QxmXhjsb_M0</value>
+            <value>https://www.youtube.com/embed/VPJW9X7Agsw https://www.youtube.com/embed/QxmXhjsb_M0 https://www.youtube.com/embed/qLaLmEW0hWg</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -4685,11 +5159,11 @@
       </Placemark>
       <Placemark>
         <name>Disneyland Park</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=-kk31Bu7kFw"><img src="https://img.youtube.com/vi/-kk31Bu7kFw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-kk31Bu7kFw">https://www.youtube.com/embed/-kk31Bu7kFw</a><br><br><br><br><a href="https://www.youtube.com/watch?v=mgaTH2I2Xoo"><img src="https://img.youtube.com/vi/mgaTH2I2Xoo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mgaTH2I2Xoo">https://www.youtube.com/embed/mgaTH2I2Xoo</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=-kk31Bu7kFw"><img src="https://img.youtube.com/vi/-kk31Bu7kFw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-kk31Bu7kFw">https://www.youtube.com/embed/-kk31Bu7kFw</a><br><br><br><br><a href="https://www.youtube.com/watch?v=mgaTH2I2Xoo"><img src="https://img.youtube.com/vi/mgaTH2I2Xoo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mgaTH2I2Xoo">https://www.youtube.com/embed/mgaTH2I2Xoo</a><br><br><a href="https://www.youtube.com/watch?v=RNI_Nt_qhKI"><img src="https://img.youtube.com/vi/RNI_Nt_qhKI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/RNI_Nt_qhKI">https://www.youtube.com/embed/RNI_Nt_qhKI</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/-kk31Bu7kFw https://www.youtube.com/embed/mgaTH2I2Xoo</value>
+            <value>https://www.youtube.com/embed/-kk31Bu7kFw https://www.youtube.com/embed/mgaTH2I2Xoo https://www.youtube.com/embed/RNI_Nt_qhKI</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -5505,11 +5979,11 @@
       </Placemark>
       <Placemark>
         <name>Dallas</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=BnbE6QzKY-I"><img src="https://img.youtube.com/vi/BnbE6QzKY-I/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/BnbE6QzKY-I">https://www.youtube.com/embed/BnbE6QzKY-I</a><br><br><br><br><a href="https://www.youtube.com/watch?v=mjUWMr8HtYY"><img src="https://img.youtube.com/vi/mjUWMr8HtYY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mjUWMr8HtYY">https://www.youtube.com/embed/mjUWMr8HtYY</a><br><br><a href="https://www.youtube.com/watch?v=R3abveaaR6g"><img src="https://img.youtube.com/vi/R3abveaaR6g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/R3abveaaR6g">https://www.youtube.com/embed/R3abveaaR6g</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=BnbE6QzKY-I"><img src="https://img.youtube.com/vi/BnbE6QzKY-I/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/BnbE6QzKY-I">https://www.youtube.com/embed/BnbE6QzKY-I</a><br><br><br><br><a href="https://www.youtube.com/watch?v=mjUWMr8HtYY"><img src="https://img.youtube.com/vi/mjUWMr8HtYY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mjUWMr8HtYY">https://www.youtube.com/embed/mjUWMr8HtYY</a><br><br><a href="https://www.youtube.com/watch?v=R3abveaaR6g"><img src="https://img.youtube.com/vi/R3abveaaR6g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/R3abveaaR6g">https://www.youtube.com/embed/R3abveaaR6g</a><br><br><a href="https://www.youtube.com/watch?v=d6xXF0QY16E"><img src="https://img.youtube.com/vi/d6xXF0QY16E/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/d6xXF0QY16E">https://www.youtube.com/embed/d6xXF0QY16E</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/BnbE6QzKY-I https://www.youtube.com/embed/mjUWMr8HtYY https://www.youtube.com/embed/R3abveaaR6g</value>
+            <value>https://www.youtube.com/embed/BnbE6QzKY-I https://www.youtube.com/embed/mjUWMr8HtYY https://www.youtube.com/embed/R3abveaaR6g https://www.youtube.com/embed/d6xXF0QY16E</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -5655,7 +6129,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sunset Limited</name>
+        <name>Sunset Limited: New Orleans, LA to Sunset Limited</name>
         <description><![CDATA[<a href="https://www.youtube.com/watch?v=fSK2sYUd7qY"><img src="https://img.youtube.com/vi/fSK2sYUd7qY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fSK2sYUd7qY">https://www.youtube.com/embed/fSK2sYUd7qY</a><br><br>]]></description>
         <styleUrl>#icon-1718-01579B</styleUrl>
         <ExtendedData>
@@ -5665,7 +6139,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            -90.0715323,29.9510658,0
+            -90.0753089,29.9538918,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5967,11 +6441,11 @@
       </Placemark>
       <Placemark>
         <name>Houston</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=IraXcDooC-8"><img src="https://img.youtube.com/vi/IraXcDooC-8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/IraXcDooC-8">https://www.youtube.com/embed/IraXcDooC-8</a><br><br><br><br><a href="https://www.youtube.com/watch?v=sWWI2hpInOE"><img src="https://img.youtube.com/vi/sWWI2hpInOE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/sWWI2hpInOE">https://www.youtube.com/embed/sWWI2hpInOE</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=IraXcDooC-8"><img src="https://img.youtube.com/vi/IraXcDooC-8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/IraXcDooC-8">https://www.youtube.com/embed/IraXcDooC-8</a><br><br><br><br><a href="https://www.youtube.com/watch?v=sWWI2hpInOE"><img src="https://img.youtube.com/vi/sWWI2hpInOE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/sWWI2hpInOE">https://www.youtube.com/embed/sWWI2hpInOE</a><br><br><a href="https://www.youtube.com/watch?v=G4xsAB3wBiQ"><img src="https://img.youtube.com/vi/G4xsAB3wBiQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/G4xsAB3wBiQ">https://www.youtube.com/embed/G4xsAB3wBiQ</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/IraXcDooC-8 https://www.youtube.com/embed/sWWI2hpInOE</value>
+            <value>https://www.youtube.com/embed/IraXcDooC-8 https://www.youtube.com/embed/sWWI2hpInOE https://www.youtube.com/embed/G4xsAB3wBiQ</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -6013,7 +6487,13 @@
       </Placemark>
       <Placemark>
         <name>Philadelphia</name>
-        <styleUrl>#icon-1727-E65100-nodesc</styleUrl>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=7SSpLLdLRDQ"><img src="https://img.youtube.com/vi/7SSpLLdLRDQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/7SSpLLdLRDQ">https://www.youtube.com/embed/7SSpLLdLRDQ</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/7SSpLLdLRDQ</value>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -75.2430704,39.9592796,0
@@ -6022,11 +6502,11 @@
       </Placemark>
       <Placemark>
         <name>New Orleans</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Ulcb3AjxM5g"><img src="https://img.youtube.com/vi/Ulcb3AjxM5g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ulcb3AjxM5g">https://www.youtube.com/embed/Ulcb3AjxM5g</a><br><br><br><br><a href="https://www.youtube.com/watch?v=bSV8qc2_qFs"><img src="https://img.youtube.com/vi/bSV8qc2_qFs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bSV8qc2_qFs">https://www.youtube.com/embed/bSV8qc2_qFs</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Ulcb3AjxM5g"><img src="https://img.youtube.com/vi/Ulcb3AjxM5g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ulcb3AjxM5g">https://www.youtube.com/embed/Ulcb3AjxM5g</a><br><br><br><br><a href="https://www.youtube.com/watch?v=bSV8qc2_qFs"><img src="https://img.youtube.com/vi/bSV8qc2_qFs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bSV8qc2_qFs">https://www.youtube.com/embed/bSV8qc2_qFs</a><br><br><a href="https://www.youtube.com/watch?v=GZUEaZHd_uI"><img src="https://img.youtube.com/vi/GZUEaZHd_uI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/GZUEaZHd_uI">https://www.youtube.com/embed/GZUEaZHd_uI</a><br><br><a href="https://www.youtube.com/watch?v=VTMOrwQx99M"><img src="https://img.youtube.com/vi/VTMOrwQx99M/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VTMOrwQx99M">https://www.youtube.com/embed/VTMOrwQx99M</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/Ulcb3AjxM5g https://www.youtube.com/embed/bSV8qc2_qFs</value>
+            <value>https://www.youtube.com/embed/Ulcb3AjxM5g https://www.youtube.com/embed/bSV8qc2_qFs https://www.youtube.com/embed/GZUEaZHd_uI https://www.youtube.com/embed/VTMOrwQx99M</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -6130,11 +6610,11 @@
       </Placemark>
       <Placemark>
         <name>Beacon Hill</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=qby9toBxpt4"><img src="https://img.youtube.com/vi/qby9toBxpt4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/qby9toBxpt4">https://www.youtube.com/embed/qby9toBxpt4</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=qby9toBxpt4"><img src="https://img.youtube.com/vi/qby9toBxpt4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/qby9toBxpt4">https://www.youtube.com/embed/qby9toBxpt4</a><br><br><br><br><a href="https://www.youtube.com/watch?v=JB0A8Me8EKk"><img src="https://img.youtube.com/vi/JB0A8Me8EKk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JB0A8Me8EKk">https://www.youtube.com/embed/JB0A8Me8EKk</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/qby9toBxpt4</value>
+            <value>https://www.youtube.com/embed/qby9toBxpt4 https://www.youtube.com/embed/JB0A8Me8EKk</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -6145,11 +6625,11 @@
       </Placemark>
       <Placemark>
         <name>Times Square South</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=u68EWmtKZw0"><img src="https://img.youtube.com/vi/u68EWmtKZw0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/u68EWmtKZw0">https://www.youtube.com/embed/u68EWmtKZw0</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=u68EWmtKZw0"><img src="https://img.youtube.com/vi/u68EWmtKZw0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/u68EWmtKZw0">https://www.youtube.com/embed/u68EWmtKZw0</a><br><br><br><br><a href="https://www.youtube.com/watch?v=_pzbDGC7SUQ"><img src="https://img.youtube.com/vi/_pzbDGC7SUQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/_pzbDGC7SUQ">https://www.youtube.com/embed/_pzbDGC7SUQ</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/u68EWmtKZw0</value>
+            <value>https://www.youtube.com/embed/u68EWmtKZw0 https://www.youtube.com/embed/_pzbDGC7SUQ</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -6160,11 +6640,11 @@
       </Placemark>
       <Placemark>
         <name>New York</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=TSgJMpQbkTw"><img src="https://img.youtube.com/vi/TSgJMpQbkTw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TSgJMpQbkTw">https://www.youtube.com/embed/TSgJMpQbkTw</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=TSgJMpQbkTw"><img src="https://img.youtube.com/vi/TSgJMpQbkTw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TSgJMpQbkTw">https://www.youtube.com/embed/TSgJMpQbkTw</a><br><br><br><br><a href="https://www.youtube.com/watch?v=9FiSamgMqec"><img src="https://img.youtube.com/vi/9FiSamgMqec/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/9FiSamgMqec">https://www.youtube.com/embed/9FiSamgMqec</a><br><br><a href="https://www.youtube.com/watch?v=zCx9BNbHDFs"><img src="https://img.youtube.com/vi/zCx9BNbHDFs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/zCx9BNbHDFs">https://www.youtube.com/embed/zCx9BNbHDFs</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/TSgJMpQbkTw</value>
+            <value>https://www.youtube.com/embed/TSgJMpQbkTw https://www.youtube.com/embed/9FiSamgMqec https://www.youtube.com/embed/zCx9BNbHDFs</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -6964,11 +7444,11 @@
       </Placemark>
       <Placemark>
         <name>MAUI</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=AWpvNtoG5nU"><img src="https://img.youtube.com/vi/AWpvNtoG5nU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/AWpvNtoG5nU">https://www.youtube.com/embed/AWpvNtoG5nU</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=AWpvNtoG5nU"><img src="https://img.youtube.com/vi/AWpvNtoG5nU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/AWpvNtoG5nU">https://www.youtube.com/embed/AWpvNtoG5nU</a><br><br><br><br><a href="https://www.youtube.com/watch?v=3aQn5gdw7DI"><img src="https://img.youtube.com/vi/3aQn5gdw7DI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3aQn5gdw7DI">https://www.youtube.com/embed/3aQn5gdw7DI</a>]]></description>
         <styleUrl>#icon-1593-01579B</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/AWpvNtoG5nU</value>
+            <value>https://www.youtube.com/embed/AWpvNtoG5nU https://www.youtube.com/embed/3aQn5gdw7DI</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -9624,7 +10104,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            -105.2414113,38.4386959,0
+            -105.24154,38.4388472,0
           </coordinates>
         </Point>
       </Placemark>
@@ -9656,6 +10136,279 @@
         <Point>
           <coordinates>
             -87.9077182,41.9730664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wailea Beach Path, Maui, Hawaii</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=SYIEFsP8Hy0"><img src="https://img.youtube.com/vi/SYIEFsP8Hy0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/SYIEFsP8Hy0">https://www.youtube.com/embed/SYIEFsP8Hy0</a><br><br><br><br><a href="https://www.youtube.com/watch?v=a9myHcrS12c"><img src="https://img.youtube.com/vi/a9myHcrS12c/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/a9myHcrS12c">https://www.youtube.com/embed/a9myHcrS12c</a><br><br><a href="https://www.youtube.com/watch?v=_Y9VjW9vwqM"><img src="https://img.youtube.com/vi/_Y9VjW9vwqM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/_Y9VjW9vwqM">https://www.youtube.com/embed/_Y9VjW9vwqM</a>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/SYIEFsP8Hy0 https://www.youtube.com/embed/a9myHcrS12c https://www.youtube.com/embed/_Y9VjW9vwqM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -156.4432121,20.6844817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaanapali Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=xBQysVivDBY"><img src="https://img.youtube.com/vi/xBQysVivDBY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/xBQysVivDBY">https://www.youtube.com/embed/xBQysVivDBY</a><br><br>]]></description>
+        <styleUrl>#icon-1593-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/xBQysVivDBY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -156.6966198,20.9175549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clearwater</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=A4PX8KbnT-Q"><img src="https://img.youtube.com/vi/A4PX8KbnT-Q/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/A4PX8KbnT-Q">https://www.youtube.com/embed/A4PX8KbnT-Q</a><br><br>]]></description>
+        <styleUrl>#icon-1593-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/A4PX8KbnT-Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.8016851,27.9647438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Park</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=MlvfLjnlMWI"><img src="https://img.youtube.com/vi/MlvfLjnlMWI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/MlvfLjnlMWI">https://www.youtube.com/embed/MlvfLjnlMWI</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/MlvfLjnlMWI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9624166,40.7837752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Bestia</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -99.1792769,19.4157576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fisherman's Wharf]]></name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=XH2-5Zxa5zc"><img src="https://img.youtube.com/vi/XH2-5Zxa5zc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/XH2-5Zxa5zc">https://www.youtube.com/embed/XH2-5Zxa5zc</a><br><br>0:00:01 Fisherman's Wharf<br>0:02:15 Pier 39<br>0:07:19 Driving in San Francisco<br>0:09:22 Fort Point / Golden Gate Bridge<br>0:14:41 The Palace of Fine Arts<br>0:21:10 The Cliff House / Pacific Ocean<br>0:30:10 Drive through Chinatown / Grant Avenue<br>0:34:59 The Cannery<br>0:35:49 Cable Car Turn-Around<br>0:39:59 Ghirardelli Square<br>0:41:17 Hyde Street Pier / Maritime Nat. Historic Park<br>0:42:47 Fisherman's Wharf<br>0:43:39 Red & White Fleet Bridge to Bridge Harbor Cruise<br>0:46:53 Sail under Golden Gate Bridge<br>0:50:46 Sail around Alcatraz<br>0:56:32 Sail under Oakland-Bay Bridge<br>1:01:23 Skyline views from harbor cruise<br>1:06:32 San Francisco International Airport]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/XH2-5Zxa5zc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.4177473,37.8079705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Great Smoky Mountains Railroad: Dillsboro to Andrews, NC</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=ZBpL9NDNf_w"><img src="https://img.youtube.com/vi/ZBpL9NDNf_w/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ZBpL9NDNf_w">https://www.youtube.com/embed/ZBpL9NDNf_w</a><br><br><br><br><a href="https://www.youtube.com/watch?v=r2qDtdZuvLw"><img src="https://img.youtube.com/vi/r2qDtdZuvLw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/r2qDtdZuvLw">https://www.youtube.com/embed/r2qDtdZuvLw</a><br><br><a href="https://www.youtube.com/watch?v=Ae4cDkmcKwE"><img src="https://img.youtube.com/vi/Ae4cDkmcKwE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ae4cDkmcKwE">https://www.youtube.com/embed/Ae4cDkmcKwE</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/ZBpL9NDNf_w https://www.youtube.com/embed/r2qDtdZuvLw https://www.youtube.com/embed/Ae4cDkmcKwE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.2525999,35.3692195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City of New Orleans:New Orleans, LA  to Chicago, IL</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=esT2-DR0jug"><img src="https://img.youtube.com/vi/esT2-DR0jug/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/esT2-DR0jug">https://www.youtube.com/embed/esT2-DR0jug</a><br><br><br><br><a href="https://www.youtube.com/watch?v=7iDe1oP6qDY"><img src="https://img.youtube.com/vi/7iDe1oP6qDY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/7iDe1oP6qDY">https://www.youtube.com/embed/7iDe1oP6qDY</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/esT2-DR0jug https://www.youtube.com/embed/7iDe1oP6qDY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.074264,29.9701315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City of New Orleans: New Orleans to Hammond, LA</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=9lgIplZKCl8"><img src="https://img.youtube.com/vi/9lgIplZKCl8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/9lgIplZKCl8">https://www.youtube.com/embed/9lgIplZKCl8</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/9lgIplZKCl8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.0578667,29.9702853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City of New Orleans:Chicago-New Orleans</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=3eAmZnnPbLI"><img src="https://img.youtube.com/vi/3eAmZnnPbLI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3eAmZnnPbLI">https://www.youtube.com/embed/3eAmZnnPbLI</a><br><br>Amtrak sleeper train across USA(https://www.youtube.com/playlist?list=PLZiOqJL_FqTSj1PPw8GEm7SKv-CZ7-8-9)]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/3eAmZnnPbLI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.9200865,41.8286889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Pass Yukon </name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=ItXsjkC1vA0"><img src="https://img.youtube.com/vi/ItXsjkC1vA0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ItXsjkC1vA0">https://www.youtube.com/embed/ItXsjkC1vA0</a><br><br><br><br><a href="https://www.youtube.com/watch?v=ffaiEhVZKAg"><img src="https://img.youtube.com/vi/ffaiEhVZKAg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ffaiEhVZKAg">https://www.youtube.com/embed/ffaiEhVZKAg</a><br><br><a href="https://www.youtube.com/watch?v=SyWWu0Zy1bY"><img src="https://img.youtube.com/vi/SyWWu0Zy1bY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/SyWWu0Zy1bY">https://www.youtube.com/embed/SyWWu0Zy1bY</a>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/ItXsjkC1vA0 https://www.youtube.com/embed/ffaiEhVZKAg https://www.youtube.com/embed/SyWWu0Zy1bY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -135.3184927,59.4515231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point 499</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=JCvRqBkIgEQ"><img src="https://img.youtube.com/vi/JCvRqBkIgEQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JCvRqBkIgEQ">https://www.youtube.com/embed/JCvRqBkIgEQ</a><br><br>]]></description>
+        <styleUrl>#icon-1533-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/JCvRqBkIgEQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.4319046,37.7831717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wenatchee Area</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=UBe9GEhc7pE"><img src="https://img.youtube.com/vi/UBe9GEhc7pE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UBe9GEhc7pE">https://www.youtube.com/embed/UBe9GEhc7pE</a><br><br>http://www.flyingmair.com/]]></description>
+        <styleUrl>#icon-1593-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/UBe9GEhc7pE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -120.321353,47.4154585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Texas</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Aw51cEQ7Mr0"><img src="https://img.youtube.com/vi/Aw51cEQ7Mr0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Aw51cEQ7Mr0">https://www.youtube.com/embed/Aw51cEQ7Mr0</a><br><br>]]></description>
+        <styleUrl>#icon-1538-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Aw51cEQ7Mr0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.9582203,31.7511776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Austin</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=VKouHxAtC5E"><img src="https://img.youtube.com/vi/VKouHxAtC5E/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VKouHxAtC5E">https://www.youtube.com/embed/VKouHxAtC5E</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/VKouHxAtC5E</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.7426626,30.265382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mississippi Coast</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=8SVyB8gNxbg"><img src="https://img.youtube.com/vi/8SVyB8gNxbg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/8SVyB8gNxbg">https://www.youtube.com/embed/8SVyB8gNxbg</a><br><br>]]></description>
+        <styleUrl>#icon-1538-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/8SVyB8gNxbg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.9745883,30.3912103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -74.0563581,40.7985003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hermosa Beach to Manhattan Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=SGBeEiyvOI0"><img src="https://img.youtube.com/vi/SGBeEiyvOI0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/SGBeEiyvOI0">https://www.youtube.com/embed/SGBeEiyvOI0</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/SGBeEiyvOI0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4020701,33.8619532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deerfield Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=-HAi_5IIAYg"><img src="https://img.youtube.com/vi/-HAi_5IIAYg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-HAi_5IIAYg">https://www.youtube.com/embed/-HAi_5IIAYg</a><br><br>]]></description>
+        <styleUrl>#icon-1727-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/-HAi_5IIAYg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.077793,26.3174891,0
           </coordinates>
         </Point>
       </Placemark>
@@ -10132,16 +10885,56 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Trucker Jay In the UK
+</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=KA85DASEMtM"><img src="https://img.youtube.com/vi/KA85DASEMtM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/KA85DASEMtM">https://www.youtube.com/embed/KA85DASEMtM</a><br><br>]]></description>
+        <styleUrl>#icon-1722-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/KA85DASEMtM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.7262072,53.5223112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Transatlantic Cruise: Southampton to New York</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=QIv05yxRM-g"><img src="https://img.youtube.com/vi/QIv05yxRM-g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QIv05yxRM-g">https://www.youtube.com/embed/QIv05yxRM-g</a><br><br>]]></description>
+        <styleUrl>#icon-1881-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/QIv05yxRM-g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3673407,50.8699297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2773091,51.5626054,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Canada Walking Tour</name>
       <Placemark>
         <name>Montreal</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=tpPPjtRzX2Q"><img src="https://img.youtube.com/vi/tpPPjtRzX2Q/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/tpPPjtRzX2Q">https://www.youtube.com/embed/tpPPjtRzX2Q</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=tpPPjtRzX2Q"><img src="https://img.youtube.com/vi/tpPPjtRzX2Q/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/tpPPjtRzX2Q">https://www.youtube.com/embed/tpPPjtRzX2Q</a><br><br><br><br><a href="https://www.youtube.com/watch?v=BWV6kbYxSi8"><img src="https://img.youtube.com/vi/BWV6kbYxSi8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/BWV6kbYxSi8">https://www.youtube.com/embed/BWV6kbYxSi8</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/tpPPjtRzX2Q</value>
+            <value>https://www.youtube.com/embed/tpPPjtRzX2Q https://www.youtube.com/embed/BWV6kbYxSi8</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10167,11 +10960,11 @@
       </Placemark>
       <Placemark>
         <name>Toronto</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=50Uf_T12OGY"><img src="https://img.youtube.com/vi/50Uf_T12OGY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/50Uf_T12OGY">https://www.youtube.com/embed/50Uf_T12OGY</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=50Uf_T12OGY"><img src="https://img.youtube.com/vi/50Uf_T12OGY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/50Uf_T12OGY">https://www.youtube.com/embed/50Uf_T12OGY</a><br><br><br><br><a href="https://www.youtube.com/watch?v=8EuKqdYIXrI"><img src="https://img.youtube.com/vi/8EuKqdYIXrI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/8EuKqdYIXrI">https://www.youtube.com/embed/8EuKqdYIXrI</a><br><br><a href="https://www.youtube.com/watch?v=Cmp39Cd3t7I"><img src="https://img.youtube.com/vi/Cmp39Cd3t7I/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Cmp39Cd3t7I">https://www.youtube.com/embed/Cmp39Cd3t7I</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/50Uf_T12OGY</value>
+            <value>https://www.youtube.com/embed/50Uf_T12OGY https://www.youtube.com/embed/8EuKqdYIXrI https://www.youtube.com/embed/Cmp39Cd3t7I</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10227,11 +11020,11 @@
       </Placemark>
       <Placemark>
         <name>University of Toronto - St. George Campus</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=5dMD26Orh38"><img src="https://img.youtube.com/vi/5dMD26Orh38/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5dMD26Orh38">https://www.youtube.com/embed/5dMD26Orh38</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=5dMD26Orh38"><img src="https://img.youtube.com/vi/5dMD26Orh38/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5dMD26Orh38">https://www.youtube.com/embed/5dMD26Orh38</a><br><br><br><br><a href="https://www.youtube.com/watch?v=uythoULSBqc"><img src="https://img.youtube.com/vi/uythoULSBqc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/uythoULSBqc">https://www.youtube.com/embed/uythoULSBqc</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/5dMD26Orh38</value>
+            <value>https://www.youtube.com/embed/5dMD26Orh38 https://www.youtube.com/embed/uythoULSBqc</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10654,6 +11447,51 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Canadian Pacific Trail to Nelson</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=iu7AYYcefUg"><img src="https://img.youtube.com/vi/iu7AYYcefUg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/iu7AYYcefUg">https://www.youtube.com/embed/iu7AYYcefUg</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/iu7AYYcefUg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.7158707,49.0980676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thousand Islands</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=UkB3r7Shi60"><img src="https://img.youtube.com/vi/UkB3r7Shi60/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UkB3r7Shi60">https://www.youtube.com/embed/UkB3r7Shi60</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/UkB3r7Shi60</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.1491489,44.2992716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quebec to New York</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=IShov5navBQ"><img src="https://img.youtube.com/vi/IShov5navBQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/IShov5navBQ">https://www.youtube.com/embed/IShov5navBQ</a><br><br>]]></description>
+        <styleUrl>#icon-1881-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/IShov5navBQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.1914234,46.829622,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Asian Walking Tour</name>
@@ -10668,11 +11506,11 @@
       </Placemark>
       <Placemark>
         <name>Marina Bay Sands Singapore</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=NqcWLyfbsyA"><img src="https://img.youtube.com/vi/NqcWLyfbsyA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/NqcWLyfbsyA">https://www.youtube.com/embed/NqcWLyfbsyA</a><br><br><br><br><a href="https://www.youtube.com/watch?v=bt4eQtcfi4w"><img src="https://img.youtube.com/vi/bt4eQtcfi4w/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bt4eQtcfi4w">https://www.youtube.com/embed/bt4eQtcfi4w</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=NqcWLyfbsyA"><img src="https://img.youtube.com/vi/NqcWLyfbsyA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/NqcWLyfbsyA">https://www.youtube.com/embed/NqcWLyfbsyA</a><br><br><br><br><a href="https://www.youtube.com/watch?v=bt4eQtcfi4w"><img src="https://img.youtube.com/vi/bt4eQtcfi4w/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bt4eQtcfi4w">https://www.youtube.com/embed/bt4eQtcfi4w</a><br><br><a href="https://www.youtube.com/watch?v=IpEpTWIDL4Q"><img src="https://img.youtube.com/vi/IpEpTWIDL4Q/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/IpEpTWIDL4Q">https://www.youtube.com/embed/IpEpTWIDL4Q</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/NqcWLyfbsyA https://www.youtube.com/embed/bt4eQtcfi4w</value>
+            <value>https://www.youtube.com/embed/NqcWLyfbsyA https://www.youtube.com/embed/bt4eQtcfi4w https://www.youtube.com/embed/IpEpTWIDL4Q</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10728,11 +11566,11 @@
       </Placemark>
       <Placemark>
         <name>Hong Kong</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=kClAWNCECt8"><img src="https://img.youtube.com/vi/kClAWNCECt8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kClAWNCECt8">https://www.youtube.com/embed/kClAWNCECt8</a><br><br><br><br><a href="https://www.youtube.com/watch?v=FlSUQFTRfAw"><img src="https://img.youtube.com/vi/FlSUQFTRfAw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/FlSUQFTRfAw">https://www.youtube.com/embed/FlSUQFTRfAw</a><br><br><a href="https://www.youtube.com/watch?v=skn-h6pi8V8"><img src="https://img.youtube.com/vi/skn-h6pi8V8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/skn-h6pi8V8">https://www.youtube.com/embed/skn-h6pi8V8</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=kClAWNCECt8"><img src="https://img.youtube.com/vi/kClAWNCECt8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kClAWNCECt8">https://www.youtube.com/embed/kClAWNCECt8</a><br><br><br><br><a href="https://www.youtube.com/watch?v=FlSUQFTRfAw"><img src="https://img.youtube.com/vi/FlSUQFTRfAw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/FlSUQFTRfAw">https://www.youtube.com/embed/FlSUQFTRfAw</a><br><br><a href="https://www.youtube.com/watch?v=skn-h6pi8V8"><img src="https://img.youtube.com/vi/skn-h6pi8V8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/skn-h6pi8V8">https://www.youtube.com/embed/skn-h6pi8V8</a><br><br><a href="https://www.youtube.com/watch?v=V8nBZbbJePs"><img src="https://img.youtube.com/vi/V8nBZbbJePs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/V8nBZbbJePs">https://www.youtube.com/embed/V8nBZbbJePs</a><br><br><a href="https://www.youtube.com/watch?v=qWL3Vw7d7bM"><img src="https://img.youtube.com/vi/qWL3Vw7d7bM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/qWL3Vw7d7bM">https://www.youtube.com/embed/qWL3Vw7d7bM</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/kClAWNCECt8 https://www.youtube.com/embed/FlSUQFTRfAw https://www.youtube.com/embed/skn-h6pi8V8</value>
+            <value>https://www.youtube.com/embed/kClAWNCECt8 https://www.youtube.com/embed/FlSUQFTRfAw https://www.youtube.com/embed/skn-h6pi8V8 https://www.youtube.com/embed/V8nBZbbJePs https://www.youtube.com/embed/qWL3Vw7d7bM</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10743,11 +11581,11 @@
       </Placemark>
       <Placemark>
         <name>Seoul</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=w-m4UON2Hlk"><img src="https://img.youtube.com/vi/w-m4UON2Hlk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/w-m4UON2Hlk">https://www.youtube.com/embed/w-m4UON2Hlk</a><br><br>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=w-m4UON2Hlk"><img src="https://img.youtube.com/vi/w-m4UON2Hlk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/w-m4UON2Hlk">https://www.youtube.com/embed/w-m4UON2Hlk</a><br><br><br><br><a href="https://www.youtube.com/watch?v=yfTkDwhLQIM"><img src="https://img.youtube.com/vi/yfTkDwhLQIM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/yfTkDwhLQIM">https://www.youtube.com/embed/yfTkDwhLQIM</a>]]></description>
         <styleUrl>#icon-1727-E65100</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/w-m4UON2Hlk</value>
+            <value>https://www.youtube.com/embed/w-m4UON2Hlk https://www.youtube.com/embed/yfTkDwhLQIM</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10797,11 +11635,11 @@
       </Placemark>
       <Placemark>
         <name>Hong Kong Drone Tour</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Ff5Bu0Gi2b4"><img src="https://img.youtube.com/vi/Ff5Bu0Gi2b4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ff5Bu0Gi2b4">https://www.youtube.com/embed/Ff5Bu0Gi2b4</a><br><br><br><br><a href="https://www.youtube.com/watch?v=skn-h6pi8V8"><img src="https://img.youtube.com/vi/skn-h6pi8V8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/skn-h6pi8V8">https://www.youtube.com/embed/skn-h6pi8V8</a><br><br><a href="https://www.youtube.com/watch?v=VxfLQsIhBXc"><img src="https://img.youtube.com/vi/VxfLQsIhBXc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VxfLQsIhBXc">https://www.youtube.com/embed/VxfLQsIhBXc</a><br><br><a href="https://www.youtube.com/watch?v=ItjjtMxT_w8"><img src="https://img.youtube.com/vi/ItjjtMxT_w8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ItjjtMxT_w8">https://www.youtube.com/embed/ItjjtMxT_w8</a><br><br><a href="https://www.youtube.com/watch?v=rgZN4tsxRbw"><img src="https://img.youtube.com/vi/rgZN4tsxRbw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rgZN4tsxRbw">https://www.youtube.com/embed/rgZN4tsxRbw</a><br><br><a href="https://www.youtube.com/watch?v=T2BVr7Wr-fA"><img src="https://img.youtube.com/vi/T2BVr7Wr-fA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/T2BVr7Wr-fA">https://www.youtube.com/embed/T2BVr7Wr-fA</a><br><br><a href="https://www.youtube.com/watch?v=i9syhCwsrDc"><img src="https://img.youtube.com/vi/i9syhCwsrDc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/i9syhCwsrDc">https://www.youtube.com/embed/i9syhCwsrDc</a><br><br><a href="https://www.youtube.com/watch?v=w5JnqKr5NVs"><img src="https://img.youtube.com/vi/w5JnqKr5NVs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/w5JnqKr5NVs">https://www.youtube.com/embed/w5JnqKr5NVs</a><br><br><a href="https://www.youtube.com/watch?v=5oCgRmv5gN4"><img src="https://img.youtube.com/vi/5oCgRmv5gN4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5oCgRmv5gN4">https://www.youtube.com/embed/5oCgRmv5gN4</a>]]></description>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Ff5Bu0Gi2b4"><img src="https://img.youtube.com/vi/Ff5Bu0Gi2b4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ff5Bu0Gi2b4">https://www.youtube.com/embed/Ff5Bu0Gi2b4</a><br><br><br><br><a href="https://www.youtube.com/watch?v=skn-h6pi8V8"><img src="https://img.youtube.com/vi/skn-h6pi8V8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/skn-h6pi8V8">https://www.youtube.com/embed/skn-h6pi8V8</a><br><br><a href="https://www.youtube.com/watch?v=VxfLQsIhBXc"><img src="https://img.youtube.com/vi/VxfLQsIhBXc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VxfLQsIhBXc">https://www.youtube.com/embed/VxfLQsIhBXc</a><br><br><a href="https://www.youtube.com/watch?v=ItjjtMxT_w8"><img src="https://img.youtube.com/vi/ItjjtMxT_w8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ItjjtMxT_w8">https://www.youtube.com/embed/ItjjtMxT_w8</a><br><br><a href="https://www.youtube.com/watch?v=rgZN4tsxRbw"><img src="https://img.youtube.com/vi/rgZN4tsxRbw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rgZN4tsxRbw">https://www.youtube.com/embed/rgZN4tsxRbw</a><br><br><a href="https://www.youtube.com/watch?v=T2BVr7Wr-fA"><img src="https://img.youtube.com/vi/T2BVr7Wr-fA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/T2BVr7Wr-fA">https://www.youtube.com/embed/T2BVr7Wr-fA</a><br><br><a href="https://www.youtube.com/watch?v=i9syhCwsrDc"><img src="https://img.youtube.com/vi/i9syhCwsrDc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/i9syhCwsrDc">https://www.youtube.com/embed/i9syhCwsrDc</a><br><br><a href="https://www.youtube.com/watch?v=w5JnqKr5NVs"><img src="https://img.youtube.com/vi/w5JnqKr5NVs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/w5JnqKr5NVs">https://www.youtube.com/embed/w5JnqKr5NVs</a><br><br><a href="https://www.youtube.com/watch?v=5oCgRmv5gN4"><img src="https://img.youtube.com/vi/5oCgRmv5gN4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5oCgRmv5gN4">https://www.youtube.com/embed/5oCgRmv5gN4</a><br><br><a href="https://www.youtube.com/watch?v=eZNLNcKl-sA"><img src="https://img.youtube.com/vi/eZNLNcKl-sA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/eZNLNcKl-sA">https://www.youtube.com/embed/eZNLNcKl-sA</a>]]></description>
         <styleUrl>#icon-1593-01579B</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/Ff5Bu0Gi2b4 https://www.youtube.com/embed/skn-h6pi8V8 https://www.youtube.com/embed/VxfLQsIhBXc https://www.youtube.com/embed/ItjjtMxT_w8 https://www.youtube.com/embed/rgZN4tsxRbw https://www.youtube.com/embed/T2BVr7Wr-fA https://www.youtube.com/embed/i9syhCwsrDc https://www.youtube.com/embed/w5JnqKr5NVs https://www.youtube.com/embed/5oCgRmv5gN4</value>
+            <value>https://www.youtube.com/embed/Ff5Bu0Gi2b4 https://www.youtube.com/embed/skn-h6pi8V8 https://www.youtube.com/embed/VxfLQsIhBXc https://www.youtube.com/embed/ItjjtMxT_w8 https://www.youtube.com/embed/rgZN4tsxRbw https://www.youtube.com/embed/T2BVr7Wr-fA https://www.youtube.com/embed/i9syhCwsrDc https://www.youtube.com/embed/w5JnqKr5NVs https://www.youtube.com/embed/5oCgRmv5gN4 https://www.youtube.com/embed/eZNLNcKl-sA</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -10866,7 +11704,7 @@
         </ExtendedData>
         <Point>
           <coordinates>
-            55.2707828,25.2048493,0
+            55.2446903,25.225971,0
           </coordinates>
         </Point>
       </Placemark>
@@ -11957,6 +12795,816 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Bangkok to MaeKlong Railway Market</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=3z_14T8b6rs"><img src="https://img.youtube.com/vi/3z_14T8b6rs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3z_14T8b6rs">https://www.youtube.com/embed/3z_14T8b6rs</a><br><br>]]></description>
+        <styleUrl>#icon-1718-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/3z_14T8b6rs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.5227945,13.7704724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asia</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=KZefCwlyuN0"><img src="https://img.youtube.com/vi/KZefCwlyuN0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/KZefCwlyuN0">https://www.youtube.com/embed/KZefCwlyuN0</a><br><br>https://www.youtube.com/playlist?list=PLHyxCxERp8m0C5woyle8GvsN4D77aW2zI https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E4%BA%9A%E6%B4%B2%E7%BB%9D%E7%BE%8E%E4%B9%8B%E5%A2%83                                                    CCTV记录(https://www.youtube.com/user/documentarycntv/videos)]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/KZefCwlyuN0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.7946186,45.9557173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Europe</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=23ywALWfCss"><img src="https://img.youtube.com/vi/23ywALWfCss/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/23ywALWfCss">https://www.youtube.com/embed/23ywALWfCss</a><br><br>https://www.youtube.com/playlist?list=PLJrOeEeP_lyAxOp-vky5M3fCv1tAHRvwF      https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E8%BF%88%E5%85%8B%C2%B7%E6%9F%8F%E6%9E%97%E6%96%B0%E6%AC%A7%E6%B4%B2%E6%B8%B8%E8%AE%B0&parentPath=%2F]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/23ywALWfCss</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0848019,61.4186453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoh Xil National Nature Reserve</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            94.067004,35.639114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shau Kei Wan Terminus to Kennedy Town Terminus</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=YqxUuftHNRo"><img src="https://img.youtube.com/vi/YqxUuftHNRo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/YqxUuftHNRo">https://www.youtube.com/embed/YqxUuftHNRo</a><br><br>]]></description>
+        <styleUrl>#icon-1532-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/YqxUuftHNRo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.2300461,22.2778293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海南東環高鐵 海口 to 文昌</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=c5uwIhF1x94"><img src="https://img.youtube.com/vi/c5uwIhF1x94/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/c5uwIhF1x94">https://www.youtube.com/embed/c5uwIhF1x94</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/c5uwIhF1x94</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.1965036,20.0357203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>環島列車:台北 to 新左營</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=mxMDqG3VFQo"><img src="https://img.youtube.com/vi/mxMDqG3VFQo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mxMDqG3VFQo">https://www.youtube.com/embed/mxMDqG3VFQo</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/mxMDqG3VFQo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.5319943,25.0393254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>環島列車:台北 to 台東</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=VOyzOJBzMxQ"><img src="https://img.youtube.com/vi/VOyzOJBzMxQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/VOyzOJBzMxQ">https://www.youtube.com/embed/VOyzOJBzMxQ</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/VOyzOJBzMxQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.5992503,25.0236369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>環島列車:台東 to 台北</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=bm-OBGgVwk0"><img src="https://img.youtube.com/vi/bm-OBGgVwk0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/bm-OBGgVwk0">https://www.youtube.com/embed/bm-OBGgVwk0</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/bm-OBGgVwk0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.1389172,22.7651552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goteik Viaduct</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=39K74OEfDts"><img src="https://img.youtube.com/vi/39K74OEfDts/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/39K74OEfDts">https://www.youtube.com/embed/39K74OEfDts</a><br><br>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/39K74OEfDts</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.8557157,22.339885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Kwai Bridge
+</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=QdKNtYpM7Vk"><img src="https://img.youtube.com/vi/QdKNtYpM7Vk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QdKNtYpM7Vk">https://www.youtube.com/embed/QdKNtYpM7Vk</a><br><br>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/QdKNtYpM7Vk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            99.5046105,14.0427537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bamboo train</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=ilJAczgfmHk"><img src="https://img.youtube.com/vi/ilJAczgfmHk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ilJAczgfmHk">https://www.youtube.com/embed/ilJAczgfmHk</a><br><br>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/ilJAczgfmHk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.1389738,12.9543149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>香港站起步環島至司徒拔道</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=oHiKUu6vnEM"><img src="https://img.youtube.com/vi/oHiKUu6vnEM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/oHiKUu6vnEM">https://www.youtube.com/embed/oHiKUu6vnEM</a><br><br>]]></description>
+        <styleUrl>#icon-1532-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/oHiKUu6vnEM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1582555,22.2845365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hongkong Bike</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=JKq4t4itzBU"><img src="https://img.youtube.com/vi/JKq4t4itzBU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JKq4t4itzBU">https://www.youtube.com/embed/JKq4t4itzBU</a><br><br>]]></description>
+        <styleUrl>#icon-1522-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/JKq4t4itzBU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1576976,22.2847747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Address Hotel Downtown Dubai</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=gsYBWQ-a82c"><img src="https://img.youtube.com/vi/gsYBWQ-a82c/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/gsYBWQ-a82c">https://www.youtube.com/embed/gsYBWQ-a82c</a><br><br>0:00:14 Take off from JFK on Emirates A380<br>0:05:08 Landing in Dubai<br>0:10:13 The Address Hotel Downtown Dubai<br>0:12:24 Burj Khalifa (At The Top)<br>0:26:40 Dubai Fountain<br>0:33:52 Drive through Dubai<br>0:39:15 Dubai Seaplane Flight<br>0:57:46 Drive through Dubai<br>1:01:43 Dubai Creek (Abra Cruise)<br>1:08:55 Souk<br>1:09:42 Drive through Dubai<br>1:16:33 Dubai Mall<br>1:25:22 Burj Khalifa Lake (Sunset)<br>1:32:37 Dubai Fountain (Sunset)<br>1:37:04 Hot Air Balloon Trip in Arabian Desert<br>1:53:17 Drive through Dubai<br>2:00:18 Medinat Jumeirah<br>2:02:32 Palm Jumeirah<br>2:04:31 Atlantis The Palm<br>2:11:32 Dubai Marina (Dhow Cruise)<br>2:25:32 Atlantis The Palm (At Night)<br>2:30:33 Port Rashid (Splendour of the Seas)<br>2:42:33 Evening Drive through Dubai<br>2:45:26 Dinner at Armani Hotel (Dubai Fountain)<br>2:48:32 Evening Drive through Dubai<br>2:50:52 Sofitel Hotel Dubai Downtown<br>2:52:20 Address Hotel Fire<br>2:52:47 New Years Eve Fireworks at Burj Khalifa<br>2:56:13 Ride Dubai Metro<br>2:59:57 Sheikh Zayed Road (Financial District)<br>3:06:10 Dubai International Airport<br>3:09:20 Emirates A380 Flight back to JFK]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/gsYBWQ-a82c</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.2790734,25.1936196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beijing Capital International Airport
+</name>
+        <styleUrl>#icon-1504-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.6031346,40.0794044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>China</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Eey_e7fwCLY"><img src="https://img.youtube.com/vi/Eey_e7fwCLY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Eey_e7fwCLY">https://www.youtube.com/embed/Eey_e7fwCLY</a><br><br>0:00:12 My flight to China<br>0:07:08 Beijing Capital Airport<br>0:09:25 Marriott City Wall Hotel<br>0:10:47 Tian'anmen Square<br>0:17:51 The Forbidden City<br>0:24:14 Rickshaw ride through Beijing houtong<br>0:30:08 Birdnest Stadium (2008 Olympic sites)<br>0:32:00 The Great Wall of China (Badaling)<br>0:39:45 Summer Palace<br>0:47:18 Temple of Heaven<br>0:52:47 Xingang - Diamond Princess embarkation<br>0:56:22 Sea days in the Yellow Sea<br>1:01:53 Captain Dino Sagani's Welcome Reception<br>1:07:20 Arrive Shanghai<br>1:12:01 Jin Mao Tower<br>1:19:54 Anren Jie<br>1:23:09 Yuyuan Garden<br>1:33:09 The Bund<br>1:36:05 People's Square<br>1:40:22 Shanghai Sailaway<br>1:43:11 Sea day in the East China Sea<br>1:43:34 Okinawa, Japan<br>1:46:48 Arrive Keelung, Taiwan<br>1:48:18 Taipei 101<br>1:50:00 Chiang Kai-Shek Memorial Hall<br>1:55:35 The Grand Hotel<br>1:58:53 Martyrs' Shrine<br>2:04:20 DiHua Street<br>2:11:11 Lunshan Temple<br>2:22:03 Taiwan Sailaway<br>2:24:27 Sea day in South China Sea<br>2:24:58 Arrive Hong Kong<br>2:26:59 Open-top bus ride through city<br>2:30:21 The Peak Tram<br>2:32:33 Victoria Peak<br>2:44:54 Hong Kong Central Business District<br>2:48:17 Star Ferry / Victoria Harbour<br>2:56:21 Kowloon<br>2:58:10 ICC - Sky 100<br>3:00:57 Back on Star Ferry<br>3:03:17 Back on open-top bus<br>3:07:49 Aberdeen Harbour sampan ride<br>3:14:05 Stanley Market<br>3:14:49 Acrobatic Show<br>3:20:43 A Symphony of Lights<br>3:28:32 Tsing Ma Bridge to Lantau Island<br>3:28:49 Upper Cheung Sha Beach<br>3:31:09 Tai O Fishing Village<br>3:35:02 Tian Tan Buddha<br>3:38:17 Po Lin Monastery<br>3:39:52 Hong Kong International Airport<br>3:49:10 Hong Kong sailaway]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Eey_e7fwCLY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            116.592462,40.0797078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>伊予灘物語: 松山 to 伊予大洲</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=2Ay3udVNG1w"><img src="https://img.youtube.com/vi/2Ay3udVNG1w/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2Ay3udVNG1w">https://www.youtube.com/embed/2Ay3udVNG1w</a><br><br><br><br><a href="https://www.youtube.com/watch?v=Pku4Teengzs"><img src="https://img.youtube.com/vi/Pku4Teengzs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Pku4Teengzs">https://www.youtube.com/embed/Pku4Teengzs</a><br><br><a href="https://www.youtube.com/watch?v=KCdV-AaerTM"><img src="https://img.youtube.com/vi/KCdV-AaerTM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/KCdV-AaerTM">https://www.youtube.com/embed/KCdV-AaerTM</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/2Ay3udVNG1w https://www.youtube.com/embed/Pku4Teengzs https://www.youtube.com/embed/KCdV-AaerTM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            132.7570846,33.8357942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越乃Shu*Kura号 直江津 to 十日町</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=39bX7RU7I14"><img src="https://img.youtube.com/vi/39bX7RU7I14/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/39bX7RU7I14">https://www.youtube.com/embed/39bX7RU7I14</a><br><br><br><br><a href="https://www.youtube.com/watch?v=9e4KwSqdbX0"><img src="https://img.youtube.com/vi/9e4KwSqdbX0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/9e4KwSqdbX0">https://www.youtube.com/embed/9e4KwSqdbX0</a><br><br><a href="https://www.youtube.com/watch?v=XYo-tZiMxhQ"><img src="https://img.youtube.com/vi/XYo-tZiMxhQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/XYo-tZiMxhQ">https://www.youtube.com/embed/XYo-tZiMxhQ</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/39bX7RU7I14 https://www.youtube.com/embed/9e4KwSqdbX0 https://www.youtube.com/embed/XYo-tZiMxhQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.2411543,37.1698931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三陸鉄道:釜石 to 宮古</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=mbUu1B3J7eY"><img src="https://img.youtube.com/vi/mbUu1B3J7eY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mbUu1B3J7eY">https://www.youtube.com/embed/mbUu1B3J7eY</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/mbUu1B3J7eY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.8726566,39.2731264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kokusai Dori</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=yTFP4pJciMY"><img src="https://img.youtube.com/vi/yTFP4pJciMY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/yTFP4pJciMY">https://www.youtube.com/embed/yTFP4pJciMY</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/yTFP4pJciMY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.6919433,26.2175631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OKINAWA</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=EydfgQSzOuc"><img src="https://img.youtube.com/vi/EydfgQSzOuc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/EydfgQSzOuc">https://www.youtube.com/embed/EydfgQSzOuc</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/EydfgQSzOuc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.8062181,26.3345139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hokunō to Mino-Ōta</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Iwb_u0sciaY"><img src="https://img.youtube.com/vi/Iwb_u0sciaY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Iwb_u0sciaY">https://www.youtube.com/embed/Iwb_u0sciaY</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Iwb_u0sciaY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            136.8295069,35.9301705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daminggong Relic Site</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            108.957972,34.280894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ming Imperial Palace Relic Site</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            118.817515,32.038224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Palace Museum</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.3971546,39.9163447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yangshuo</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            110.496593,24.77848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Lake</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            120.1502699,30.2427011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suzhou</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            120.585289,31.298974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gannan</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.911027,34.983385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lhasa</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            91.17211,29.652491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jiuzhai Valley National Park</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.9185994,33.2600421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qinghai Lake</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            100.3497895,36.7599029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>稻城亚丁风景区</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            100.298403,29.037007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nam Co</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            90.6393702,30.6644393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qingdao</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            120.382609,36.067108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zhangjiajie</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            110.479191,29.117096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanya</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            109.511909,18.252847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雪乡</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            127.167619,44.931992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>茶卡盐湖景区</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            99.079521,36.762183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beijicun</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            122.359563,53.481561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dali Ancient City</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            100.2116531,25.6125171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miyaluocun</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.784667,31.683894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龙脊梯田</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            110.124364,25.755283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>新都桥</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            101.957146,29.998436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yangshuo</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            110.496593,24.77848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niubei Mountain</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            102.838233,30.116457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hangzhou</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            120.15507,30.274084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lijiang</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            100.22775,26.855047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>敦煌</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.823665,36.054197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>婺源风景区</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            117.8617053,29.2534267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phoenix Ancient City</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            109.6009703,27.9528119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>木兰围场</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            117.741688,41.916998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baiyangdian</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.0472995,38.8677928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ili</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            81.324136,43.916823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gulangyu</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            118.066232,24.446318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>外浦海水浴場 Sotoura Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=kdHLeFEqgXA"><img src="https://img.youtube.com/vi/kdHLeFEqgXA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/kdHLeFEqgXA">https://www.youtube.com/embed/kdHLeFEqgXA</a><br><br>]]></description>
+        <styleUrl>#icon-1727-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/kdHLeFEqgXA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9725093,34.6750322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>爪木崎</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=3LNBOJ1hh-k"><img src="https://img.youtube.com/vi/3LNBOJ1hh-k/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3LNBOJ1hh-k">https://www.youtube.com/embed/3LNBOJ1hh-k</a><br><br>]]></description>
+        <styleUrl>#icon-1727-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/3LNBOJ1hh-k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.9864629,34.6584214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuala Lumpur</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=d6sSCs6k1hY"><img src="https://img.youtube.com/vi/d6sSCs6k1hY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/d6sSCs6k1hY">https://www.youtube.com/embed/d6sSCs6k1hY</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/d6sSCs6k1hY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            101.686855,3.139003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            103.8836243,1.3551566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            114.199569,22.3374041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.4466074,39.9230559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=z1obnaqPgMA"><img src="https://img.youtube.com/vi/z1obnaqPgMA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/z1obnaqPgMA">https://www.youtube.com/embed/z1obnaqPgMA</a><br><br>]]></description>
+        <styleUrl>#icon-1661-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/z1obnaqPgMA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            139.7676335,35.69878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            55.282486,25.2343098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9</name>
+        <styleUrl>#icon-1661-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            121.4952256,31.28031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iwo Jima</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=ofSF463vpCQ"><img src="https://img.youtube.com/vi/ofSF463vpCQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/ofSF463vpCQ">https://www.youtube.com/embed/ofSF463vpCQ</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/ofSF463vpCQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3155653,24.7875734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iwo Jima
+</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=SAGJfjE0qdA"><img src="https://img.youtube.com/vi/SAGJfjE0qdA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/SAGJfjE0qdA">https://www.youtube.com/embed/SAGJfjE0qdA</a><br><br>]]></description>
+        <styleUrl>#icon-1593-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/SAGJfjE0qdA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.3215566,24.7887422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Semporna</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=cpX2BKVhrB8"><img src="https://img.youtube.com/vi/cpX2BKVhrB8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/cpX2BKVhrB8">https://www.youtube.com/embed/cpX2BKVhrB8</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/cpX2BKVhrB8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            118.588785,4.467422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TAKLAMAKAN DESERT</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            83.1060265,39.4407709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gobi Desert</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            105.0323635,42.7951536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arabian Desert</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            55.7267218,25.1050792,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>other</name>
@@ -12103,11 +13751,11 @@
       </Placemark>
       <Placemark>
         <name>Sahara Desert</name>
-        <description><![CDATA[<a href="https://www.youtube.com/watch?v=fvRkWO5g2HE"><img src="https://img.youtube.com/vi/fvRkWO5g2HE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fvRkWO5g2HE">https://www.youtube.com/embed/fvRkWO5g2HE</a><br><br>]]></description>
-        <styleUrl>#icon-1727-E65100</styleUrl>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=fvRkWO5g2HE"><img src="https://img.youtube.com/vi/fvRkWO5g2HE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fvRkWO5g2HE">https://www.youtube.com/embed/fvRkWO5g2HE</a><br><br><br><br><a href="https://www.youtube.com/watch?v=JRuIUhK1vcc"><img src="https://img.youtube.com/vi/JRuIUhK1vcc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JRuIUhK1vcc">https://www.youtube.com/embed/JRuIUhK1vcc</a><br><br><a href="https://www.youtube.com/watch?v=LMHfYnS65w0"><img src="https://img.youtube.com/vi/LMHfYnS65w0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/LMHfYnS65w0">https://www.youtube.com/embed/LMHfYnS65w0</a>]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
-            <value>https://www.youtube.com/embed/fvRkWO5g2HE</value>
+            <value>https://www.youtube.com/embed/fvRkWO5g2HE https://www.youtube.com/embed/JRuIUhK1vcc https://www.youtube.com/embed/LMHfYnS65w0</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -13367,6 +15015,591 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name><![CDATA[Rovos Rail "Pride of Africa" Dar es Salaam to Capetown]]></name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=6ov6Xqhc6TY"><img src="https://img.youtube.com/vi/6ov6Xqhc6TY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/6ov6Xqhc6TY">https://www.youtube.com/embed/6ov6Xqhc6TY</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/6ov6Xqhc6TY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2071969,-6.7948016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montreux to Zweisimmen
+</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=95mXGkYKlac"><img src="https://img.youtube.com/vi/95mXGkYKlac/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/95mXGkYKlac">https://www.youtube.com/embed/95mXGkYKlac</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/95mXGkYKlac</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.9152555,46.4328057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Pass Line Zweisimmen to Lenk</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=-tFU1xy9a0g"><img src="https://img.youtube.com/vi/-tFU1xy9a0g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-tFU1xy9a0g">https://www.youtube.com/embed/-tFU1xy9a0g</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/-tFU1xy9a0g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.3736839,46.5538956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taieri Gorge Railway</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=QRvEI5ektWw"><img src="https://img.youtube.com/vi/QRvEI5ektWw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QRvEI5ektWw">https://www.youtube.com/embed/QRvEI5ektWw</a><br><br><br><br><a href="https://www.youtube.com/watch?v=FReNH7wRlBs"><img src="https://img.youtube.com/vi/FReNH7wRlBs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/FReNH7wRlBs">https://www.youtube.com/embed/FReNH7wRlBs</a><br><br><a href="https://www.youtube.com/watch?v=5nIP548WWLg"><img src="https://img.youtube.com/vi/5nIP548WWLg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5nIP548WWLg">https://www.youtube.com/embed/5nIP548WWLg</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/QRvEI5ektWw https://www.youtube.com/embed/FReNH7wRlBs https://www.youtube.com/embed/5nIP548WWLg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.5048106,-45.8750423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bernina Express Tirano to St Moritz</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=P0LletCbw1Q"><img src="https://img.youtube.com/vi/P0LletCbw1Q/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/P0LletCbw1Q">https://www.youtube.com/embed/P0LletCbw1Q</a><br><br><br><br><a href="https://www.youtube.com/watch?v=dn-Evz0bOxs"><img src="https://img.youtube.com/vi/dn-Evz0bOxs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/dn-Evz0bOxs">https://www.youtube.com/embed/dn-Evz0bOxs</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/P0LletCbw1Q https://www.youtube.com/embed/dn-Evz0bOxs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.1634241,46.2171485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Forest Railway zurich switzerland to offenburg</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Jz88VYbbm7o"><img src="https://img.youtube.com/vi/Jz88VYbbm7o/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Jz88VYbbm7o">https://www.youtube.com/embed/Jz88VYbbm7o</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Jz88VYbbm7o</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.537023,47.3775781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beograd to Subotica</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=mfhDY0AFFvg"><img src="https://img.youtube.com/vi/mfhDY0AFFvg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mfhDY0AFFvg">https://www.youtube.com/embed/mfhDY0AFFvg</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/mfhDY0AFFvg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            20.4821923,44.8080855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANDEAN EXPLORER Cusco to Puno</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=dkWu7zsCHXo"><img src="https://img.youtube.com/vi/dkWu7zsCHXo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/dkWu7zsCHXo">https://www.youtube.com/embed/dkWu7zsCHXo</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/dkWu7zsCHXo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.9688562,-13.5317443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rovos Rail - Shongololo
+</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=uG-p2O5r7ew"><img src="https://img.youtube.com/vi/uG-p2O5r7ew/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/uG-p2O5r7ew">https://www.youtube.com/embed/uG-p2O5r7ew</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/uG-p2O5r7ew</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.0750728,-27.678609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North America </name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=mx8WbZIWCSM"><img src="https://img.youtube.com/vi/mx8WbZIWCSM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mx8WbZIWCSM">https://www.youtube.com/embed/mx8WbZIWCSM</a><br><br>https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E5%8C%97%E7%BE%8E%E5%A4%A7%E5%9C%B0&parentPath=%2F                                                      https://www.youtube.com/playlist?list=PL378A5AC6067623D6]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/mx8WbZIWCSM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -112.0713116,61.1961011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>African</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=nYpCeOpHHnY"><img src="https://img.youtube.com/vi/nYpCeOpHHnY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/nYpCeOpHHnY">https://www.youtube.com/embed/nYpCeOpHHnY</a><br><br>https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E9%9D%9E%E6%B4%B2%EF%BC%9A%E5%8F%91%E7%8E%B0%E6%9C%AA%E7%9F%A5&parentPath=%2F]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/nYpCeOpHHnY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -8.1053207,23.1003143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South America</name>
+        <description><![CDATA[https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E9%87%8E%E6%80%A7%E5%8D%97%E7%BE%8E%E6%B4%B2&parentPath=%2F                                https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E5%A4%A7%E5%8D%AB%C2%B7%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%EF%BC%9A%E6%8E%A2%E7%B4%A2%E6%9C%AA%E7%9F%A5%E4%B9%8B%E5%A2%83&parentPath=%2F]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -63.9084438,-32.9784587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antarctica</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=sm07n-fPkFI"><img src="https://img.youtube.com/vi/sm07n-fPkFI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/sm07n-fPkFI">https://www.youtube.com/embed/sm07n-fPkFI</a><br><br>https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E5%8D%97%E6%9E%81%E6%B4%B2%EF%BC%9A%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E5%A4%A7%E8%87%AA%E7%84%B6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85&parentPath=%2F                                                          ]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/sm07n-fPkFI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.94897,-76.6488957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>macon to frejus</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=BZigZ0VszCw"><img src="https://img.youtube.com/vi/BZigZ0VszCw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/BZigZ0VszCw">https://www.youtube.com/embed/BZigZ0VszCw</a><br><br>]]></description>
+        <styleUrl>#icon-1722-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/BZigZ0VszCw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.830315,46.3067067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>frejus to genova</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=El8CnpDFM0M"><img src="https://img.youtube.com/vi/El8CnpDFM0M/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/El8CnpDFM0M">https://www.youtube.com/embed/El8CnpDFM0M</a><br><br>]]></description>
+        <styleUrl>#icon-1722-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/El8CnpDFM0M</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.7432256,43.4334452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>France, Switzerland, Italy</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=JCVRNHLUG70"><img src="https://img.youtube.com/vi/JCVRNHLUG70/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/JCVRNHLUG70">https://www.youtube.com/embed/JCVRNHLUG70</a><br><br>France via Troyes, Dijon and Nantua. Into Switzerland at Geneva St Julien/Bardonnex and then out and over the Alps into Italy<br><br><a href="https://www.youtube.com/watch?v=aN18nxX_9ko"><img src="https://img.youtube.com/vi/aN18nxX_9ko/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/aN18nxX_9ko">https://www.youtube.com/embed/aN18nxX_9ko</a>]]></description>
+        <styleUrl>#icon-1722-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/JCVRNHLUG70 https://www.youtube.com/embed/aN18nxX_9ko</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.0760809,48.2977114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siwa Oasis</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=lvFaRrrgM0c"><img src="https://img.youtube.com/vi/lvFaRrrgM0c/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/lvFaRrrgM0c">https://www.youtube.com/embed/lvFaRrrgM0c</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/lvFaRrrgM0c</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.5184574,29.2068808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Northern Explorer
+</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=CY9XOW1oF-8"><img src="https://img.youtube.com/vi/CY9XOW1oF-8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/CY9XOW1oF-8">https://www.youtube.com/embed/CY9XOW1oF-8</a><br><br>https://www.youtube.com/playlist?list=PLvA-il_wO5J-USvjlPkapb4kRTEDlE89d<br><br><a href="https://www.youtube.com/watch?v=e-cFszv2Cbs"><img src="https://img.youtube.com/vi/e-cFszv2Cbs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/e-cFszv2Cbs">https://www.youtube.com/embed/e-cFszv2Cbs</a><br><br><a href="https://www.youtube.com/watch?v=EXVl_hvJsiw"><img src="https://img.youtube.com/vi/EXVl_hvJsiw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/EXVl_hvJsiw">https://www.youtube.com/embed/EXVl_hvJsiw</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/CY9XOW1oF-8 https://www.youtube.com/embed/e-cFszv2Cbs https://www.youtube.com/embed/EXVl_hvJsiw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7499103,-36.8638433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Zealand Route</name>
+        <description><![CDATA[https://www.google.com/maps/d/u/0/viewer?msa=0&ie=UTF8&t=m&ll=-45.10679211050428%2C171.3256434326188&spn=5.473679%2C7.03125&z=7&source=embed&mid=1oeQrVltCWg4t5sLUKNQcBXBJk4I                                                      https://www.google.com/maps/d/u/0/embed?mid=1EsYQCVTtRvLwMTnVTr2JzpbZ2Fc&msa=0&hl=en&ie=UTF8&t=m&ll=-38.904234253962166%2C164.55350511698867&spn=3.762999%2C7.03125&z=5&output=embed                                   https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1BnLz5voF26jXM7tZSm6MSG4UanE&ll=-38.0811974038227%2C175.70881781801836&z=7                                                                      ]]></description>
+        <styleUrl>#icon-1594-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            174.159307,-42.1058922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travel Music</name>
+        <description><![CDATA[旅行音乐(http://www.lizhi.fm/user/3535478/)      中國民歌經典(http://www.chinamusic.com.tw/09_ballad.htm)    橄榄树(https://emumo.xiami.com/play?ids=/song/playlist/id/139048/object_name/default/object_id/0#loaded)                                                想自由(http://music.sonimei.cn/?name=%E6%83%B3%E8%87%AA%E7%94%B1&type=qq)                                                                             蓝莲花(http://music.sonimei.cn/?name=%E8%93%9D%E8%8E%B2%E8%8A%B1&type=qq)                                                                           像风一样自由(http://music.sonimei.cn/?name=%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1&type=qq)        任逍遥(http://music.sonimei.cn/?name=%E4%BB%BB%E9%80%8D%E9%81%A5&type=qq)                                                                              爱江山更爱美人(http://music.sonimei.cn/?name=%E7%88%B1%E6%B1%9F%E5%B1%B1%E6%9B%B4%E7%88%B1%E7%BE%8E%E4%BA%BA)                                                                                山歌好比春江水(http://music.sonimei.cn/?name=%E5%B1%B1%E6%AD%8C%E5%A5%BD%E6%AF%94%E6%98%A5%E6%B1%9F%E6%B0%B4)                                                                                  野百合也有春天(http://music.sonimei.cn/?name=%E9%87%8E%E7%99%BE%E5%90%88%E4%B9%9F%E6%9C%89%E6%98%A5%E5%A4%A9)                                                                         羞答答的玫瑰静悄悄地开(http://music.sonimei.cn/?name=%E7%BE%9E%E7%AD%94%E7%AD%94%E7%9A%84%E7%8E%AB%E7%91%B0) .            快乐崇拜(http://music.sonimei.cn/?name=%E5%BF%AB%E4%B9%90%E5%B4%87%E6%8B%9C&type=qq)                                                     浪花一朵朵(http://music.sonimei.cn/?name=%E6%B5%AA%E8%8A%B1%E4%B8%80%E6%9C%B5%E6%9C%B5&type=netease)                     一个人旅行%20张若英(http://music.sonimei.cn/?name=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%97%85%E8%A1%8C%20%E5%BC%A0%E8%8B%A5%E8%8B%B1&type=qq)                                     阿里山的姑娘(http://music.sonimei.cn/?name=%E9%98%BF%E9%87%8C%E5%B1%B1%E7%9A%84%E5%A7%91%E5%A8%98&type=qq)         伊斯坦堡(https://www.youtube.com/watch?v=s9wvjSkR_Ms)                                                             青藏高原(https://emumo.xiami.com/play?ids=/song/playlist/id/1770625193/object_name/default/object_id/0#loaded)                                       呼伦贝尔大草原(http://music.sonimei.cn/?name=%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E5%A4%A7%E8%8D%89%E5%8E%9F&type=qq)                                                                       请到蒙古草原来(http://music.sonimei.cn/?name=%E8%AF%B7%E5%88%B0%E8%92%99%E5%8F%A4%E8%8D%89%E5%8E%9F%E6%9D%A5&type=qq)                                                                         江南(http://music.sonimei.cn/?name=%E6%B1%9F%E5%8D%97&type=qq)             大海(http://music.sonimei.cn/?name=%E5%A4%A7%E6%B5%B7&type=qq)             一剪梅（https://www.youtube.com/watch?v=AjitR7RZEQU）                                                        花海(https://www.youtube.com/watch?v=q1ww6bDjfiI)                                                               五月天(http://music.sonimei.cn/?name=%E4%BA%94%E6%9C%88%E5%A4%A9&type=qq)                                                                             黄土高坡(http://music.sonimei.cn/?name=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%9D%A1&type=qq)                                                    冬天里的一把火(https://emumo.xiami.com/play?ids=/song/playlist/id/11349/object_name/default/object_id/0#loaded)                                                   东方之珠(https://www.youtube.com/watch?v=vRG919KG4vc)                                                           孤单北半球(https://emumo.xiami.com/play?ids=/song/playlist/id/124129/object_name/default/object_id/0#loaded)                                                 Red Dead Redemption 2(https://www.youtube.com/playlist?list=PLLH8sgqaTeYpfT3sb2BVDlgrsoRWj6Mxd) .   奥德赛(https://www.bilibili.com/video/av33443994/)      起源(https://www.bilibili.com/video/av16011537/)       风之旅人(https://www.bilibili.com/video/av21500736/)        美国末日(https://www.bilibili.com/video/av16956372/)  ]]></description>
+        <styleUrl>#icon-1637-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -97.5258741,-61.5368989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Pass:Geneva to Interlaken</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=2SyW_CPXxcU"><img src="https://img.youtube.com/vi/2SyW_CPXxcU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2SyW_CPXxcU">https://www.youtube.com/embed/2SyW_CPXxcU</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/2SyW_CPXxcU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.1407976,46.2029194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pilatus Railway</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=2SyW_CPXxcU"><img src="https://img.youtube.com/vi/2SyW_CPXxcU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2SyW_CPXxcU">https://www.youtube.com/embed/2SyW_CPXxcU</a><br><br><br><br><a href="https://www.youtube.com/watch?v=oSt59w49PCE"><img src="https://img.youtube.com/vi/oSt59w49PCE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/oSt59w49PCE">https://www.youtube.com/embed/oSt59w49PCE</a>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/2SyW_CPXxcU https://www.youtube.com/embed/oSt59w49PCE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.2546816,46.9797162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glacier Express: St. Moritz to Zermatt</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=2SyW_CPXxcU"><img src="https://img.youtube.com/vi/2SyW_CPXxcU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2SyW_CPXxcU">https://www.youtube.com/embed/2SyW_CPXxcU</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/2SyW_CPXxcU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.835243,46.4906417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bernina Express: Pontresina to Poschiavo</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=2SyW_CPXxcU"><img src="https://img.youtube.com/vi/2SyW_CPXxcU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2SyW_CPXxcU">https://www.youtube.com/embed/2SyW_CPXxcU</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/2SyW_CPXxcU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.9018933,46.4922376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travel Guider</name>
+        <description>timvp(http://timvp.com/vacationvideos.html)       VACATION VIDEOS by Time(https://docs.google.com/spreadsheets/d/1U1y2Nr0yfkWkITsMD8m_cf0nrKUJP4_Zc52ETlO9cBs/edit?usp=sharing)                                                 鄧予立看世界(https://tangyulap.pixnet.net/blog)      bigrigtravels(https://bigrigtravels.com/2019-trip-journal/)</description>
+        <styleUrl>#icon-1594-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -109.337988,-61.7665321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Pass: Zweisimmen to Montreux</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=reQIWxID9JM"><img src="https://img.youtube.com/vi/reQIWxID9JM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/reQIWxID9JM">https://www.youtube.com/embed/reQIWxID9JM</a><br><br>]]></description>
+        <styleUrl>#icon-1718-01579B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/reQIWxID9JM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.3702074,46.5542135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spain Madrid</name>
+        <description><![CDATA[0:00:13 Flight to Madrid<br>0:01:57 Hotel Ritz Madrid<br>0:03:12 Plaza de la Lealtad<br>0:03:38 Neptune Fountain/Canovas del Castillo Square<br>0:04:38 Plaza de Cibeles/City Hall<br>0:07:08 Open-top bus ride through Madrid<br>0:11:51 Royal Palace of Madrid<br>0:14:37 Plaza de Oriente<br>0:18:11 Almudena Cathedral<br>0:19:37 Toledo Gate<br>0:21:09 Plaza Mayor<br>0:24:22 Puerta del Sol<br>0:29:28 Plaza de la Independencia/Alcalá Gate<br>0:31:21 Plaza de Colon<br>0:33:32 Puerta de Europa Towers (Gate of Europe)<br>0:34:53 Prado Museum<br>0:35:53 Night Tour of Madrid<br>0:44:46 Flight to Barcelona<br>0:52:24 NH Calderon Hotel Barcelona<br>0:54:30 Plaça de Catalunya<br>0:56:41 La Rambla<br>1:02:34 Christopher Columbus Monument<br>1:05:52 Port Vell<br>1:08:23 Barcelona Walking Tour of Gothic Quarter<br>1:08:46 Cathedral of the Holy Cross and Saint Eulalia<br>1:11:17 Plaza de la Constitucion<br>1:15:01 Buss ride through Barcelona<br>1:16:48 Montjuïc Cable Car<br>1:19:48 Castle of Montjuïc<br>1:23:16 Olympic Stadium<br>1:24:10 National Art Museum of Catalonia<br>1:25:09 The Spanish Village<br>1:27:29 La Sagrada Familia<br>1:29:39 Gaudí's Park Güell<br>1:32:55 Barcelona's Arc de Triomf<br>1:34:09 Basilica of Santa Maria del Mar<br>1:35:10 Plaça de Catalunya at Night<br>1:36:40 Gran Via de les Corts Catalanes Fountain<br>1:38:24 Barcelona sail away on Royal Princess<br>1:47:16 Arrive in Vigo on Grand Princess<br>1:51:49 Bus ride through Vigo<br>1:54:32 Pontevedra<br>1:56:09 Church of San Francisco<br>1:57:32 Santiago De Compostela<br>2:14:20 Bus ride through Vigo<br>2:16:55 Grand Princess Vigo Sail Away<br>2:26:46 Sunset]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7011742,40.4088336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gelmerbahn</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=TNYs0mRUh5M"><img src="https://img.youtube.com/vi/TNYs0mRUh5M/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TNYs0mRUh5M">https://www.youtube.com/embed/TNYs0mRUh5M</a><br><br>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/TNYs0mRUh5M</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.3078208,46.6127558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>tren a las nubes</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=RASyAZwF55A"><img src="https://img.youtube.com/vi/RASyAZwF55A/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/RASyAZwF55A">https://www.youtube.com/embed/RASyAZwF55A</a><br><br><br><br><a href="https://www.youtube.com/watch?v=8nXiCLg0jq4"><img src="https://img.youtube.com/vi/8nXiCLg0jq4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/8nXiCLg0jq4">https://www.youtube.com/embed/8nXiCLg0jq4</a><br><br><a href="https://www.youtube.com/watch?v=7EdrTTTvUlE"><img src="https://img.youtube.com/vi/7EdrTTTvUlE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/7EdrTTTvUlE">https://www.youtube.com/embed/7EdrTTTvUlE</a>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/RASyAZwF55A https://www.youtube.com/embed/8nXiCLg0jq4 https://www.youtube.com/embed/7EdrTTTvUlE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -65.4117652,-24.7787741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferrocarril Central Andino</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=_4Yyti9K9cg"><img src="https://img.youtube.com/vi/_4Yyti9K9cg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/_4Yyti9K9cg">https://www.youtube.com/embed/_4Yyti9K9cg</a><br><br><br><br><a href="https://www.youtube.com/watch?v=rD7fKeE4pcQ"><img src="https://img.youtube.com/vi/rD7fKeE4pcQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rD7fKeE4pcQ">https://www.youtube.com/embed/rD7fKeE4pcQ</a><br><br><a href="https://www.youtube.com/watch?v=aumZ2F45ibU"><img src="https://img.youtube.com/vi/aumZ2F45ibU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/aumZ2F45ibU">https://www.youtube.com/embed/aumZ2F45ibU</a><br><br><a href="https://www.youtube.com/watch?v=6cyCOCaCkh0"><img src="https://img.youtube.com/vi/6cyCOCaCkh0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/6cyCOCaCkh0">https://www.youtube.com/embed/6cyCOCaCkh0</a>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/_4Yyti9K9cg https://www.youtube.com/embed/rD7fKeE4pcQ https://www.youtube.com/embed/aumZ2F45ibU https://www.youtube.com/embed/6cyCOCaCkh0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.6924216,-11.9355906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pamban Road Bridge</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=gGa8Pz2D_dU"><img src="https://img.youtube.com/vi/gGa8Pz2D_dU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/gGa8Pz2D_dU">https://www.youtube.com/embed/gGa8Pz2D_dU</a><br><br><br><br><a href="https://www.youtube.com/watch?v=xK8_fulGVJ8"><img src="https://img.youtube.com/vi/xK8_fulGVJ8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/xK8_fulGVJ8">https://www.youtube.com/embed/xK8_fulGVJ8</a>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/gGa8Pz2D_dU https://www.youtube.com/embed/xK8_fulGVJ8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            79.1954203,9.2826647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>nariz del diablo</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=2enTBVC66uw"><img src="https://img.youtube.com/vi/2enTBVC66uw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/2enTBVC66uw">https://www.youtube.com/embed/2enTBVC66uw</a><br><br>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/2enTBVC66uw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.8781085,-2.2439259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travel Music 2</name>
+        <description><![CDATA[外面的世界(http://music.sonimei.cn/?name=%E9%BD%90%E7%A7%A6&type=qq)         一条大河(https://emumo.xiami.com/play?ids=/song/playlist/id/1769544064/object_name/default/object_id/0#loaded)                                       让我们荡起双桨(http://music.sonimei.cn/?name=%E8%AE%A9%E6%88%91%E4%BB%AC%E8%8D%A1%E8%B5%B7%E5%8F%8C%E6%A1%A8&type=qq)                                                                          上海1943(http://music.sonimei.cn/?name=%E4%B8%8A%E6%B5%B71943&type=netease)                                                                               渔歌唱晚(http://music.sonimei.cn/?name=%E6%B8%94%E6%AD%8C%E5%94%B1%E6%99%9A&type=qq)                                                      茉莉花(http://music.sonimei.cn/?name=%E5%A5%BD%E4%B8%80%E6%9C%B5%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%8C%89%E8%8E%89%E8%8A%B1&type=qq)                      我只在乎你(http://music.sonimei.cn/?name=%E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0&type=qq)                               外婆的澎湖湾(http://music.sonimei.cn/?name=%E5%A4%96%E5%A9%86%E7%9A%84%E6%BE%8E%E6%B9%96%E6%B9%BE&type=qq)         寂寞在唱歌(http://music.sonimei.cn/?name=%E5%AF%82%E5%AF%9E%E5%9C%A8%E5%94%B1%E6%AD%8C&type=qq)                               米兰的小铁匠(http://music.sonimei.cn/?name=%E7%B1%B3%E5%85%B0%E7%9A%84%E5%B0%8F%E9%93%81%E5%8C%A0&type=qq)        刀剑如梦(https://music.sonimei.cn/?name=%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6&type=qq)                                                         征服(https://y.qq.com/n/yqq/song/002Hy9zT0bwveb.html)                                                                                在希望的田野上(https://music.sonimei.cn/?name=%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A&type=qq)       洪湖水浪打浪(https://www.bilibili.com/video/av46551086/)]]></description>
+        <styleUrl>#icon-1637-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -91.8196429,-61.3721107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fly</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=3yllmjAZ-OA"><img src="https://img.youtube.com/vi/3yllmjAZ-OA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/3yllmjAZ-OA">https://www.youtube.com/embed/3yllmjAZ-OA</a><br><br>]]></description>
+        <styleUrl>#icon-1504-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/3yllmjAZ-OA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -103.7354324,-61.7236962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Sandy Desert</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            124.4310088,-20.7389428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalahari Desert</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            21.0937311,-25.5920214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al Wusta Governorate</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            56.2756846,19.9571078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prague</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=tNJTWOUH8JE"><img src="https://img.youtube.com/vi/tNJTWOUH8JE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/tNJTWOUH8JE">https://www.youtube.com/embed/tNJTWOUH8JE</a><br><br><br><br><a href="https://www.youtube.com/watch?v=njFvp_JnJ2U"><img src="https://img.youtube.com/vi/njFvp_JnJ2U/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/njFvp_JnJ2U">https://www.youtube.com/embed/njFvp_JnJ2U</a>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/tNJTWOUH8JE https://www.youtube.com/embed/njFvp_JnJ2U</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4378005,50.0755381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vienna</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=rJ2IY6rp-G8"><img src="https://img.youtube.com/vi/rJ2IY6rp-G8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rJ2IY6rp-G8">https://www.youtube.com/embed/rJ2IY6rp-G8</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/rJ2IY6rp-G8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            16.3738189000001,48.2081743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hallstatt</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=9DXHnoZ61MQ"><img src="https://img.youtube.com/vi/9DXHnoZ61MQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/9DXHnoZ61MQ">https://www.youtube.com/embed/9DXHnoZ61MQ</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/9DXHnoZ61MQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.6492617,47.5622342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Florence</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=rpJpJBTL9oQ"><img src="https://img.youtube.com/vi/rpJpJBTL9oQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rpJpJBTL9oQ">https://www.youtube.com/embed/rpJpJBTL9oQ</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/rpJpJBTL9oQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.2558136,43.7695604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siena</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=S2WR3AEuQ0g"><img src="https://img.youtube.com/vi/S2WR3AEuQ0g/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/S2WR3AEuQ0g">https://www.youtube.com/embed/S2WR3AEuQ0g</a><br><br>]]></description>
+        <styleUrl>#icon-1727-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/S2WR3AEuQ0g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.3307574,43.318809,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Australia Walking Tour</name>
@@ -13850,6 +16083,31 @@
         <Point>
           <coordinates>
             138.6078481,-34.8875784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australia</name>
+        <description><![CDATA[https://pan.baidu.com/s/1slyQaW9#list/path=%2F%E5%80%BC%E5%BE%97%E4%BA%B2%E5%AD%90%E8%A7%82%E7%9C%8B%E7%9A%84%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E7%BA%AA%E5%BD%95%E7%89%87%2F%E6%96%B0%E8%A5%BF%E5%85%B0%EF%BC%9A%E7%A5%9E%E8%AF%9D%E4%B9%8B%E5%B2%9B&parentPath=%2F                                              https://www.youtube.com/playlist?list=PLO-wxIy9sHyYOOVrjpYYoex5JPL1nHq0y]]></description>
+        <styleUrl>#icon-1725-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            119.2105458,-20.5384987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuranda Scenic Railway</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=fwx1iwbW_wM"><img src="https://img.youtube.com/vi/fwx1iwbW_wM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/fwx1iwbW_wM">https://www.youtube.com/embed/fwx1iwbW_wM</a><br><br><br><br><a href="https://www.youtube.com/watch?v=PIF_HJdVEh4"><img src="https://img.youtube.com/vi/PIF_HJdVEh4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/PIF_HJdVEh4">https://www.youtube.com/embed/PIF_HJdVEh4</a>]]></description>
+        <styleUrl>#icon-1718-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/fwx1iwbW_wM https://www.youtube.com/embed/PIF_HJdVEh4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            145.6354474,-16.8154668,0
           </coordinates>
         </Point>
       </Placemark>
